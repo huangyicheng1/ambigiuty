@@ -1,1 +1,1 @@
-# ambigiuty
+# ambiguity
