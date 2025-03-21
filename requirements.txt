@@ -1,4 +1,18 @@
-pandas>=1.5.0
-numpy>=1.21.0
-scipy>=1.7.0
-matplotlib>=3.5.0 
+scipy>=1.11.0
+pandas>=2.0.0
+numpy>=1.24.0
+h5py>=3.8.0
+tables>=3.8.0  # for HDF5 support
+pyarrow>=14.0.1  # for Parquet and Feather support
+fastparquet>=2023.8.0  # alternative Parquet engine
+humanize>=4.0.0
+
+
+
+
+
+# python -m venv .myvenv
+# .myvenv/Scripts/activate.bat
+# pip install -r requirements.txt
+
+#cursor
